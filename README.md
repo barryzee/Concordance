@@ -1,2 +1,2 @@
 # Concordance
-Repository for concordance results produced by Sherlock program on CRAN repository
+Repository for concordance results produced by SherlockHolmes package in the CRAN repository
